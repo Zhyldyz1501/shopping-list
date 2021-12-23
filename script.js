@@ -105,7 +105,7 @@ const getData = () => {
         todoDiv.innerHTML = `
         <li class='todo-item'>${todo}</li>
         <button class='completed-btn'>
-            <i class='fas fa-plus-square'></i>
+            <i class='fas fa-plus-check'></i>
         </button>
         <button class='delete-btn'>
             <i class='fas fa-trash'></i>
